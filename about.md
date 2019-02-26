@@ -3,7 +3,6 @@ layout: page
 comments: true
 ---
 
-# Foundations of Blockchain
 
 ## Book Description 
 

@@ -3,7 +3,8 @@ layout: page
 comments: true
 ---
 
-## Table of content
+## Content 
+
  1. *Chapter 1*: ***Introduction***
  2. *Chapter 2*: ***A Bit of Cryptography***
  3. *Chapter 3*: ***Cryptography in Blockchain***
